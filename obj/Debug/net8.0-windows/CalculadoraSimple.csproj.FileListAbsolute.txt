@@ -1,0 +1,16 @@
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.exe
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.deps.json
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.runtimeconfig.json
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.dll
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\bin\Debug\net8.0-windows\CalculadoraSimple.pdb
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.AssemblyInfoInputs.cache
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.AssemblyInfo.cs
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.dll
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\refint\CalculadoraSimple.dll
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.pdb
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.genruntimeconfig.cache
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\ref\CalculadoraSimple.dll
+C:\Users\Cesar Andres\Desktop\MIEVA001\CalculadoraSimple\obj\Debug\net8.0-windows\CalculadoraSimple.Calculadora.resources
